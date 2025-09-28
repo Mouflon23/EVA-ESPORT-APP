@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Ligue Locale EVA",
+    "slug": "eva-ligue-locale-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#6200ea"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#6200ea"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
